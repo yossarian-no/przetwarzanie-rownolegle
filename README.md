@@ -1,0 +1,1 @@
+# przetwarzanie-r-wnoleg-e
