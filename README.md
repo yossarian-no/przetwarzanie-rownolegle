@@ -1,4 +1,4 @@
-# przetwarzanie-r-wnoleg-e
+# Przetwarzanie równoległe - Projekt
 
 Vasil Kusmartsev 156202  
 Predmiot: Przetwarzanie równoległe, laboratoria, 6 semestr.  
